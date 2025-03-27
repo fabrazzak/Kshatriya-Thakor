@@ -1,0 +1,10 @@
+[
+    { "id": 1, "name": "Rahul", "age": 24, "image":"https://i.ibb.co.com/43g215K/m-2.png"  },
+    { "id": 2, "name": "Anjali", "age": 30, "image":"https://i.ibb.co.com/gF6prZFT/m-1.png" },
+    { "id": 3, "name": "Amit", "age": 24, "image":"https://i.ibb.co.com/1DkyCZy/m-3.png"  },
+    { "id": 4, "name": "Priya", "age": 26 , "image":"https://i.ibb.co.com/Txfp9M3d/m-4.png" },
+    { "id": 5, "name": "Vikram", "age": 22, "image":"https://i.ibb.co.com/gF6prZFT/m-1.png"  },
+    { "id": 6, "name": "Neha", "age": 28, "image":"https://i.ibb.co.com/QjN6nNrW/m-5.png"  },
+    { "id": 7, "name": "Rahul", "age": 24, "image":"https://i.ibb.co.com/43g215K/m-2.png"  }
+  ]
+  
