@@ -96,7 +96,7 @@
   content: "";
   position: absolute;
   bottom: -100;
-  left: -70;
+  left: -70; 
   width: 200px;
   height: 315px;
   background-image: url('../app/assets/flower-3.png');
