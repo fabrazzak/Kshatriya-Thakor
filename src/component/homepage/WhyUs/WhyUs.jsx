@@ -11,11 +11,11 @@ import { FaArrowRightLong } from 'react-icons/fa6';
 const WhyUs = () => {
 
     return (
-        <section className="py-16 why-us-bg">
+        <section className="py-16 why-us-bg relative">
             <div className="max-w-7xl mx-auto px-4">
                 <div className="grid lg:grid-cols-2 grid-cols-1  items-center lg:gap-30 gap-10">
                     {/* Left Column - Image */}
-                    <div className="w-full mx-auto flex justify-center    ">
+                    <div className="w-full mx-auto flex justify-center z-1000   ">
 
                         <Image
                             src={partner}
